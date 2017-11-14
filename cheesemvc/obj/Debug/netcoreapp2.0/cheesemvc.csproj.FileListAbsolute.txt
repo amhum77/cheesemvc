@@ -1,0 +1,11 @@
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\bin\Debug\netcoreapp2.0\cheesemvc.deps.json
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\bin\Debug\netcoreapp2.0\cheesemvc.runtimeconfig.json
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\bin\Debug\netcoreapp2.0\cheesemvc.runtimeconfig.dev.json
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\bin\Debug\netcoreapp2.0\cheesemvc.dll
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\bin\Debug\netcoreapp2.0\cheesemvc.pdb
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\obj\Debug\netcoreapp2.0\cheesemvc.csprojResolveAssemblyReference.cache
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\obj\Debug\netcoreapp2.0\cheesemvc.csproj.CoreCompileInputs.cache
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\obj\Debug\netcoreapp2.0\cheesemvc.AssemblyInfoInputs.cache
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\obj\Debug\netcoreapp2.0\cheesemvc.AssemblyInfo.cs
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\obj\Debug\netcoreapp2.0\cheesemvc.dll
+C:\Users\Foxy\lc101\cheesemvc\cheesemvc\obj\Debug\netcoreapp2.0\cheesemvc.pdb
